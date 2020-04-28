@@ -1,5 +1,5 @@
 # importing time module
-# edited version of file
+# edited version of filei V2
 import time
 
 print("Gleich muss ich warten")
